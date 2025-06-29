@@ -45,11 +45,11 @@
       <outputDirectory>skins</outputDirectory>
     </fileSet>
     <fileSet>
-      <directory>source</directory>
+      <directory>src</directory>
       <excludes>
         <exclude>**/.gitignore</exclude>
       </excludes>
-      <outputDirectory>source</outputDirectory>
+      <outputDirectory>src</outputDirectory>
     </fileSet>
     <fileSet>
       <directory>${basedir}</directory>

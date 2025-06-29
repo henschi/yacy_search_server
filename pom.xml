@@ -378,10 +378,6 @@
   </dependencies>
 
   <build>
-    <!-- change default source and test path -->
-    <sourceDirectory>./source</sourceDirectory>
-    <testSourceDirectory>./test/java</testSourceDirectory>
-
     <plugins>
       <!-- enforcer -->
       <plugin>
